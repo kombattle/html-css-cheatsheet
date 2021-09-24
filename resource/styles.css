@@ -1,5 +1,5 @@
 * {
-    font-family: monospace;
+    font-family: sans-serif;
     background-color: #ddd;
 }
    
@@ -26,15 +26,13 @@ table {
 thead th {
     background: #88CCF1;
     color: #000;
-    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     text-align: center;
   }
 
   th, td {
-    padding: 10px;
-    text-align: left;
-    font-size: 18px;
+    padding: 5px;
+    text-align: left;;
     border: 1px solid black;
   }
 
